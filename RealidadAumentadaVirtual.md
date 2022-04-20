@@ -1,4 +1,4 @@
-# Modulo 5 - Realidad Virtual y Aumentada
+# Realidad Virtual y Aumentada
 
 ¿Qué son los QR y cómo crearlos?
 

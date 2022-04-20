@@ -44,7 +44,7 @@ También trabajaremos los conceptos de realidad virtual y aumentada, y veremos a
 ## Sesiones
 
 Fecha| Horario
----|---|---
+---|---
 20/04/22|16:30 - 19:30
 27/04/22|16:30 - 19:30
 05/05/22|16:30 - 19:30

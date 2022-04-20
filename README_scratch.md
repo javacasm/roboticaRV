@@ -1,7 +1,3 @@
-# Programación en educación
-
-
-
 # Programación en educación: Scratch 
 
 

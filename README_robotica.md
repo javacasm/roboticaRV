@@ -1,8 +1,6 @@
 # ROBÓTICA EN EL AULA CON MICRO:BIT y MAKEYMAKEY
 
-## CEP de Jaen
-
-### Mayo de 2022
+## Mayo de 2022
 
 ## José Antonio Vacas @javacasm
 
